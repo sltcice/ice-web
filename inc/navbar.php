@@ -1,7 +1,7 @@
 <nav id="nav">
 
 <div class="left">
-    <img src="img/logob.png" alt="ICE at SLTC Logo">
+    <img src="img/logow.png" alt="ICE at SLTC Logo" id="top-logo">
     <h2>ICE at SLTC</h2>
 </div>
 

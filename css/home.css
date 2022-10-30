@@ -22,7 +22,7 @@
 .overlay{
     /* padding: 0 23rem; */
     width: 100%;
-    background-image: linear-gradient(#ccf,#1138, #1138);
+    background-color:  #1139;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
