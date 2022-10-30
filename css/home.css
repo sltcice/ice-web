@@ -167,11 +167,13 @@
     justify-content: center;
 }
 .project-card .proj-img img{
+    z-index: 1;
     width: 300px;
     transition: all ease 0.3s;
 
 }
 .project-card:hover .proj-img img{
+    z-index: 1;
     transform: scale(1.2);
     transition: all ease 0.3s;
 }

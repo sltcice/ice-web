@@ -67,6 +67,7 @@ button:hover{
 /* ===== Nav bar ===== */
 nav{
     /* background-color: #fff; */
+    z-index: 99999;
     position: fixed;
     width: 100%;
     display: flex;
