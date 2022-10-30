@@ -1,4 +1,4 @@
-<nav>
+<nav id="nav">
 
 <div class="left">
     <img src="img/logob.png" alt="ICE at SLTC Logo">
