@@ -6,18 +6,22 @@
 </div>
 
 <div class="right">
-    <ul>
-        <a href="#"><li>Home</li></a>
-        <a href="#"><li>News</li></a>
-        <a href="#"><li>Contact</li></a>
-        <a href="#"><li>Privecy Policy</li></a>
-        <a href="#"><li>About</li></a>
+    <ul class="navmenu">
+        <a href="#"><li class="nav-link">Home</li></a>
+        <a href="#"><li class="nav-link">News</li></a>
+        <a href="#"><li class="nav-link">Contact</li></a>
+        <a href="#"><li class="nav-link">Privecy Policy</li></a>
+        <a href="#"><li class="nav-link">About</li></a>
 
     </ul>
     <a href="#"><button>Login</button></a>
+    <div class="hamburger">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></i></span>
+    </div>
+
 </div>
-
-
 
 
 </nav>
