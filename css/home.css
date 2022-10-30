@@ -32,7 +32,7 @@
 .overlay h2{
     padding: 0.5rem;
     color:#fff;
-    font-size: 3rem;
+    font-size: var(--font-25);
     font-weight: 600;
 }
 .overlay p{
@@ -40,7 +40,7 @@
     border-top: 3px solid #fff;
     text-align: center;
     color:#fff;
-    font-size: 1.5rem;
+    font-size: var(--font-15);
     font-weight: 400;
     max-width: 600px;
 }
@@ -63,7 +63,7 @@
 .vision-cont h2{
     padding: 0.5rem;
     color:var(--gray);
-    font-size: 2rem;
+    font-size: var(--font-20);
     font-weight: 400;
 }
 .vision-cont p{
@@ -72,7 +72,7 @@
     border-top: 3px solid var(--gray);
     text-align: center;
     color:var(--light-gray);
-    font-size: 1.5rem;
+    font-size: var(--font-15);
     font-weight: 400;
 }
 .vision a button{
@@ -129,7 +129,7 @@
 .aim-overlay h2{
     color:#fff;
     padding: 0.5rem;
-    font-size: 2rem;
+    font-size: var(--font-20);
     font-weight: 400;
 }
 .aim-overlay p{
@@ -139,7 +139,7 @@
     text-align: center;
     color:#fff;
     text-align: center;
-    font-size: 1.5rem;
+    font-size: var(--font-15);
     font-weight: 400;
 }
 
