@@ -68,6 +68,7 @@ section{
     justify-content: center;
     background-color: #fff;
 }
+
 section h2{
     font-size: var(--font-20);
     font-weight: 500;
