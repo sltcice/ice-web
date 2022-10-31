@@ -16,11 +16,6 @@ include "inc/home.php";
 
 
 
-
-
-
-
-
 // footer and closing body and html tags
 include "inc/footer.php";
 ?>
