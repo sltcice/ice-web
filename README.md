@@ -1,2 +1,1 @@
-# ice
-for ICE Website
+# ICE at SLTC Official Website
