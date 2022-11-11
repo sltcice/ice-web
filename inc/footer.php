@@ -25,9 +25,6 @@
 
         </form>
     </div>
-
-
-
     <div class="copyright">
      <p>&copy; ICE at SLTC ~ 2022</p>
     </div>
