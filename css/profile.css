@@ -1,0 +1,33 @@
+.profile{
+    background-color: #000;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.profile-container{
+    /* width: 900px; */
+    width: 100%;
+    /* background-color: #333; */
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* profile-container content */
+.profile-container .left, .profile-container .middle, .profile-container .right{
+    min-height: 100vh;
+    background-color: #223;
+    color: #fff;
+
+}
+.profile-container .left, .profile-container .right{
+    width: 29%;
+}
+
+.profile-container .middle{
+    width: 40%;
+    
+}
