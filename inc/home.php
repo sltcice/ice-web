@@ -26,6 +26,7 @@
 <section class="projects">
     <h2>Current Projects</h2>
     <div class="project-cont">
+
         <div class="project-card">
             <div class="proj-img">
                 <img src="img/aim-bg.jpg" alt="">
@@ -36,6 +37,7 @@
                 <a href="#">Learn More</a>
             </div>
         </div>
+
         <div class="project-card">
             <div class="proj-img">
                 <img src="img/aim-bg.jpg" alt="">
