@@ -17,6 +17,9 @@
     <!-- ====== home page style file ====== -->
     <link rel='stylesheet' type='text/css' media='screen' href='css/home.css'>
     
+    <!-- ====== profile page style file ====== -->
+    <link rel='stylesheet' type='text/css' media='screen' href='css/profile.css'>
+
     <!-- ====== Footer style file ====== -->
     <link rel='stylesheet' type='text/css' media='screen' href='css/footer.css'>
     
