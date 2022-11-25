@@ -46,9 +46,9 @@
 
 
 /* .profile-container .left */
-.profile-container .left{
-    /* padding: 5px; */
-}
+/* .profile-container .left{
+    padding: 5px;
+} */
 
 
 .main-profile{
@@ -86,10 +86,10 @@
     align-items: center;
     justify-content: center;
 } */
-.profile-contact table{
-    /* margin-top: 10px; */
+/* .profile-contact table{
+    margin-top: 10px;
 
-}
+} */
 
 .profile-contact table tr td:first-child{
     display: flex;
@@ -149,6 +149,14 @@
     overflow: hidden;
     padding: 0;
 }
+.middle .post-container .post .media .img{
+    transition: all 0.3s ease-in-out;
+}
+.middle .post-container .post:hover .media .img{
+    transform: scale(1.1);
+    transition: all 0.3s ease-in-out;
+}
+
 
 .middle .post-container .post div{
     padding: 10px;

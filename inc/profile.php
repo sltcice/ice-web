@@ -37,11 +37,11 @@
                 <div class="blog"><i class="fas fa-blog"></i><br><i class="fas fa-plus"></i> Blog Article</div>
             </div>
 
-<!-- Post Section Start -->
+            <!-- Post Section Start -->
             <div class="post-container">
                 <div class="post">
                     <div class="media">
-                        <img src="img/aim-bg.jpg" alt="">
+                        <img src="img/aim-bg.jpg" alt="" class="img">
                     </div>
                     <div class="headline">
                         <h2>Blog Header</h2>
@@ -57,7 +57,7 @@
 
                 <div class="post">
                     <div class="media">
-                        <img src="img/aim-bg.jpg" alt="">
+                        <img src="img/aim-bg.jpg" alt="" class="img">
                     </div>
                     <div class="headline">
                         <h2>Blog Header</h2>
@@ -73,7 +73,7 @@
 
                 <div class="post">
                     <div class="media">
-                        <img src="img/aim-bg.jpg" alt="">
+                        <img src="img/aim-bg.jpg" alt="" class="img">
                     </div>
                     <div class="headline">
                         <h2>Blog Header</h2>
@@ -89,7 +89,7 @@
 
                 <div class="post">
                     <div class="media">
-                        <img src="img/aim-bg.jpg" alt="">
+                        <img src="img/aim-bg.jpg" alt="" class="img">
                     </div>
                     <div class="headline">
                         <h2>Blog Header</h2>
@@ -105,7 +105,7 @@
 
                 <div class="post">
                     <div class="media">
-                        <img src="img/aim-bg.jpg" alt="">
+                        <img src="img/aim-bg.jpg" alt="" class="img">
                     </div>
                     <div class="headline">
                         <h2>Blog Header</h2>
@@ -120,7 +120,7 @@
                 </div>                
             </div>
 
-<!-- /Post Section End -->
+            <!-- /Post Section End -->
         </div><!-- End Middle-->
 
 
@@ -166,7 +166,7 @@
                 <h3>Expireance</h3>
                     <div class="edu-profile">
                         <div class="image">
-                            <img src="img/logow.png" alt="">
+                            <img src="img/logow.png" alt="" class="org-img">
                         </div>
                         <div class="details">
                             <h4>Sri Lanka Technological Campus</h4>
@@ -177,7 +177,7 @@
 
                     <div class="edu-profile">
                         <div class="image">
-                            <img src="img/logow.png" alt="">
+                            <img src="img/logow.png" alt="" class="org-img">
                         </div>
                         <div class="details">
                             <h4>Sri Lanka Technological Campus</h4>
@@ -188,7 +188,7 @@
 
                     <div class="edu-profile">
                         <div class="image">
-                            <img src="img/logow.png" alt="">
+                            <img src="img/logow.png" alt="" class="org-img">
                         </div>
                         <div class="details">
                             <h4>Sri Lanka Technological Campus</h4>
@@ -202,7 +202,7 @@
                 <h3>Volunteering</h3>
                     <div class="edu-profile">
                         <div class="image">
-                            <img src="img/logow.png" alt="">
+                            <img src="img/logow.png" alt="" class="org-img">
                         </div>
                         <div class="details">
                             <h4>Sri Lanka Technological Campus</h4>
@@ -213,7 +213,7 @@
 
                     <div class="edu-profile">
                         <div class="image">
-                            <img src="img/logow.png" alt="">
+                            <img src="img/logow.png" alt="" class="org-img">
                         </div>
                         <div class="details">
                             <h4>Sri Lanka Technological Campus</h4>
@@ -224,7 +224,7 @@
 
                     <div class="edu-profile">
                         <div class="image">
-                            <img src="img/logow.png" alt="">
+                            <img src="img/logow.png" alt="" class="org-img">
                         </div>
                         <div class="details">
                             <h4>Sri Lanka Technological Campus</h4>

@@ -1,7 +1,9 @@
 <?php
 // html tag / title/ head tag 
 // css link
+include "inc/connect.php";
 include "inc/head.php";
+include "inc/functions.php";
 
 
 // Nav bar include
@@ -24,6 +26,12 @@ if(isset($_GET['page'])){
 
 
 
+
+
+
+
 // footer and closing body and html tags
 include "inc/footer.php";
+
+
 ?>
