@@ -20,10 +20,20 @@
 /* profile-container content */
 .profile-container .left, .profile-container .middle, .profile-container .right{
     min-height: 100vh;
-    background-color: #223;
-    color: #fff;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
 
 }
+
+.profile-container .left .main-profile, .profile-container .left .profile-contact, .profile-container .middle .add, .profile-container .right{
+    background-color: #223;
+    color: #fff;
+    border-radius: 15px;
+    padding: 15px;
+
+}
+
 .profile-container .left, .profile-container .right{
     width: 29%;
 }
@@ -36,13 +46,13 @@
 
 /* .profile-container .left */
 .profile-container .left{
-    padding: 5px;
+    /* padding: 5px; */
 }
 
 
 .main-profile{
     padding: 5px;
-    /* text-align: center; */
+    text-align: center;
 }
 .main-profile .pro-pic-cont{
     padding: 10px;
@@ -63,6 +73,11 @@
 
 .main-profile .details{
     padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 3px;
+    align-items: center;
+    justify-content: center;
 }
 /* profile-contact UL */
 /* .profile-contact{
@@ -71,9 +86,10 @@
     justify-content: center;
 } */
 .profile-contact table{
-    margin-top: 10px;
+    /* margin-top: 10px; */
 
 }
+
 .profile-contact table tr td:first-child{
     display: flex;
     align-items: center;
@@ -81,4 +97,37 @@
     padding: 5px;
     text-align: center;
     
+}
+
+
+
+
+
+/* Middle */
+.middle .add{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+    column-gap: 10px;
+}
+
+.middle .add div{
+    background-color: #fff2;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    border-radius: 15px;
+
+}
+
+.middle .add .post .fa-photo-video{
+    color: var(--ice-blue);
+}
+.middle .add .research .fa-file-invoice{
+    color: greenyellow;
+}
+.middle .add .fa-blog{
+    color: red;
 }

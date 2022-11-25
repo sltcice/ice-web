@@ -12,7 +12,7 @@
                 <div class="details">
                     <h3>Sahan Kaushalya</h3>
                     <!-- <p>sahan</p> -->
-                    <span>Undergraduate<span><br>
+                    <h4>Undergraduate<h4>
                     <a href="#">Edit Profile</a>
                 </div>
             </div>
@@ -31,7 +31,35 @@
         </div><!-- End left -->
 
         <div class="middle">
+            <div class="add">
+                <div class="post"><i class="fas fa-photo-video"></i><br><i class="fas fa-plus"></i > Post</div>
+                <div class="research"><i class="fas fa-file-invoice"></i><br><i class="fas fa-plus"></i> Research</div>
+                <div class="blog"><i class="fas fa-blog"></i><br><i class="fas fa-plus"></i> Blog Article</div>
+            </div>
 
+
+            <div class="post-container">
+
+                <div class="post">
+                    <div class="media">
+
+                    </div>
+                    <div class="headline">
+
+                    </div>
+                    <div class="description">
+
+                    </div>
+                    <div class="bottom-details">
+                        
+                    </div>
+                </div>
+
+
+
+
+
+            </div>
         </div><!-- End Middle-->
 
         <div class="right">
