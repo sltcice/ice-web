@@ -1,0 +1,93 @@
+section.login{
+    min-height: 100vh;
+    background-color: #000;
+    padding-top: 100px;
+}
+
+.loginform{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    /* background-color: #fff; */
+    border: 1px solid #fff;
+    overflow: hidden;
+    max-width: 350px;
+    width: 100%;
+    height: 100%;
+    /* min-height: 300px; */
+    row-gap: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 18px 0px #0004;
+}
+.loginform .headline, .loginform .form-bottom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 10px 0;
+    /* background-color: #fff; */
+    color: #fff;
+    flex-direction: column;
+}
+.loginform .headline{
+    border-bottom: 1px solid white;    
+}
+.loginform .form-bottom{
+    border-top: 1px solid white;
+}
+.loginform .form-field-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    row-gap: 15px;
+    padding: 0 10px;
+}
+.loginform .form-field-container .form-input-content{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-evenly; */
+    flex-direction: column;
+    width: 100%;
+    row-gap: 5px;
+}
+.loginform .form-field-container .form-input-content label{
+    width: 100%;
+    /* text-align: center; */
+    font-size: 1.1rem;
+    color: #fff;
+}
+.loginform .form-field-container .form-input-content input{
+    width: 100%;
+    min-height: 35px;
+    font-size: 1.1rem;
+    outline: none;
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid white;
+    border-radius: 4px;
+    padding: 5px;
+
+}
+.loginform .form-field-container .form-input-content button{
+    width: 100%;
+    min-height: 40px;
+    font-size: 1.1rem;
+    outline: none;
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    font-weight: 600;
+    padding: 5px;
+
+}
+.loginform .form-field-container .form-input-content button:hover{
+    background-color: transparent;
+    color: #fff;
+
+}
+
