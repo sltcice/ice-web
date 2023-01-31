@@ -1,13 +1,13 @@
 <?php
 // html tag / title/ head tag 
 // css link
-include "inc/connect.php";
-include "inc/head.php";
-include "inc/functions.php";
+include "inc/run/connect.php";
+include "inc/pages/head.php";
+include "inc/run/functions.php";
 
 
 // Nav bar include
-include "inc/navbar.php";
+include "inc/pages/navbar.php";
 
 
 
@@ -15,13 +15,17 @@ include "inc/navbar.php";
 if(isset($_GET['page'])){
     $page = $_GET['page'];
     if($page == 'home'){ //home page include
-        include "inc/home.php";
+        include "inc/pages/home.php";
     }elseif($page == 'profile'){ //profile page include
-        include "inc/profile.php";
+        include "inc/pages/profile.php";
+    }elseif($page == 'login'){ //profile page include
+        include "inc/pages/login.php";
+    }elseif($page == 'register'){ //profile page include
+        include "inc/pages/register.php";
     }
 }else{
     // home page
-    include "inc/home.php";
+    include "inc/pages/home.php";
 }
 
 
@@ -31,7 +35,7 @@ if(isset($_GET['page'])){
 
 
 // footer and closing body and html tags
-include "inc/footer.php";
+include "inc/pages/footer.php";
 
 
 ?>
